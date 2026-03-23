@@ -10,6 +10,7 @@
 - [06-08.html](./06-08.html)
 - [06-09.html](./06-09.html)
 - [06-10.html](./06-10.html)
+- [bootstrap-practice.html](./bootstrap-practice.html)
 
 ## 06-02.html
 
@@ -50,3 +51,13 @@ btnStyle: {
 ## 06-10.html
 
 점수 범위(1~100)를 벗어났을 때 경고 스타일이 적용되도록 구현하기
+
+## bootstrap-practice.html
+
+Bootstrap과 Font Awesome을 활용하여 테이블과 버튼 UI를 구성하기
+
+### 사용 개념
+
+- Bootstrap 테이블 컴포넌트
+- Bootstrap 버튼 스타일
+- Font Awesome 아이콘
