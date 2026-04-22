@@ -16,4 +16,22 @@ class E extends C {
 }
 
 public class PromotionExample {
+    public static void main(String[] args) {
+        B b = new B();
+        C c = new C();
+        D d = new D();
+        E e = new E();
+
+        // 부모 타입 변수에 자식 타입 객체가 대입 될 때 자동 타입 변환 발생
+        A a1 = b;
+        A a2 = c;
+        A a3 = d;
+        A a4 = e;
+
+        B b1 = d;
+        C c1 = e;
+
+        // B b3 = e; // 컴파일 에러(상속 관계에 있지 않음)
+        // C c2 = d; // 컴파일 에러(상속 관계에 있지 않음)
+    }
 }
