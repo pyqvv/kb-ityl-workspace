@@ -15,10 +15,11 @@
 
 ## 📁 패키지 구조
 
-| 패키지명                   | 내용           |
-| ---------------------- |--------------|
-| `tisjava.intro`     | 01. 자바 시작하기  |
-| `tisjava.variables` | 02. 변수와 타입   |
-| `tisjava.operators` | 03. 연산자      |
-| `tisjava.control`   | 04. 조건문과 반복문 |
-| `tisjava.array`     | 05. 참조 타입    |
+| 패키지명                 | 내용           |
+|----------------------|--------------|
+| `tisjava.intro`      | 01. 자바 시작하기  |
+| `tisjava.variables`  | 02. 변수와 타입   |
+| `tisjava.operators`  | 03. 연산자      |
+| `tisjava.control`    | 04. 조건문과 반복문 |
+| `tisjava.array`      | 05. 참조 타입    |
+| `tisjava.interfaces` | 08. 인터페이스    |
