@@ -17,27 +17,27 @@
 
 ### 1. animal  
 - 동물 이동 거리 계산 및 인터페이스 활용
-- [🔗 코드](../src/polymorphism/animal)
+- [🔗 코드](animal)
 
 ### 2. coffeeshop  
 - 음료 가격 계산 및 판매 관리
-- [🔗 코드](../src/polymorphism/coffeeshop)
+- [🔗 코드](coffeeshop)
 
 ### 3. factory  
 - 공장 생산량 계산 및 협력 로직 구현
-- [🔗 코드](../src/polymorphism/factory)
+- [🔗 코드](factory)
 
 ### 4. shape  
 - 도형 면적 계산 (추상 클래스 활용)
-- [🔗 코드](../src/polymorphism/shape)
+- [🔗 코드](shape)
 
 ### 5. videoshop  
 - 비디오 타입별 가격 계산
-- [🔗 코드](../src/polymorphism/videoshop)
+- [🔗 코드](videoshop)
 
 ### 6. wheeler  
 - 차량 속도 제어 및 오버라이딩 구현
-- [🔗 코드](../src/polymorphism/wheeler)
+- [🔗 코드](wheeler)
 
 ---
 

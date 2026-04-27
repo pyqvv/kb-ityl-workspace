@@ -11,8 +11,8 @@
 3. 예외가 발생되면, "예외가 발생되었습니다. 문자열을 입력하지 않고 Enter키를 누르셨습니다."라고 출력합니다.
 
 ## 🔗 코드
-- [기본 풀이](../src/exception/ExceptionBasic.java)
-- [리팩토링 풀이](../src/exception/ExceptionRefactored.java)
+- [기본 풀이](ExceptionBasic.java)
+- [리팩토링 풀이](ExceptionRefactored.java)
 
 ## ▶️ 실행 예
 [ 사용자가 123을 입력할 경우, 화면으로 출력되는 문자열입니다 ]

@@ -31,11 +31,11 @@
 ## 🔗 코드
 
 ### 기본 구현
-- [실행 클래스 (main)](../src/inheritance/drink/Prob.java)
-- [Drink](../src/inheritance/drink/Drink.java)
-- [Alcohol](../src/inheritance/drink/Alcohol.java)
+- [실행 클래스 (main)](Prob.java)
+- [Drink](Drink.java)
+- [Alcohol](Alcohol.java)
 
 ### 예외 처리 적용
-- [실행 클래스 (main)](../src/inheritance/drink/refactored/Prob.java)
-- [Drink](../src/inheritance/drink/refactored/Drink.java)
-- [Alcohol](../src/inheritance/drink/refactored/Alcohol.java)
+- [실행 클래스 (main)](refactored/Prob.java)
+- [Drink](refactored/Drink.java)
+- [Alcohol](refactored/Alcohol.java)
