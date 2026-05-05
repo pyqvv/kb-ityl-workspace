@@ -6,10 +6,12 @@ public class MainTodo {
             return 1;
         } finally {
             // TODO 1: "finally 실행" 출력
+            System.out.println("finally 실행");
         }
     }
 
     public static void main(String[] args) {
         // TODO 2: test 결과 출력
+        test();
     }
 }

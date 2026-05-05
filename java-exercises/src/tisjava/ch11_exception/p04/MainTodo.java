@@ -8,6 +8,7 @@ public class MainTodo {
             System.out.println("예외");
         } finally {
             // TODO 1: "무조건 실행" 출력
+            System.out.println("무조건 실행");
         }
     }
 }
