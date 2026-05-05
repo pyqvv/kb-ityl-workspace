@@ -17,15 +17,17 @@
 
 ## 📁 패키지 구조
 
-| 패키지명                  | 내용               |
-|-----------------------|------------------|
-| `tisjava.intro`       | 01. 자바 시작하기      |
-| `tisjava.variables`   | 02. 변수와 타입       |
-| `tisjava.operators`   | 03. 연산자          |
-| `tisjava.control`     | 04. 조건문과 반복문     |
-| `tisjava.array`       | 05. 참조 타입        |
-| `tisjava.oop`         | 06. 클래스          |
-| `tisjava.inheritance` | 07. 상속           |
-| `tisjava.interfaces`  | 08. 인터페이스        |
-| `tisjava.anonymous`   | 09. 중첩 선언과 익명 객체 |
-| `tisjava.exception`   | 11. 예외 처리        |
+| 패키지명                       | 내용               |
+|----------------------------|------------------|
+| `tisjava.ch01_intro`       | 01. 자바 시작하기      |
+| `tisjava.ch02_variables`   | 02. 변수와 타입       |
+| `tisjava.ch03_operators`   | 03. 연산자          |
+| `tisjava.ch04_control`     | 04. 조건문과 반복문     |
+| `tisjava.ch05_array`       | 05. 참조 타입        |
+| `tisjava.ch06_oop`         | 06. 클래스          |
+| `tisjava.ch07_inheritance` | 07. 상속           |
+| `tisjava.ch08_interfaces`  | 08. 인터페이스        |
+| `tisjava.ch09_anonymous`   | 09. 중첩 선언과 익명 객체 |
+| `tisjava.ch11_exception`   | 11. 예외 처리        |
+| `tisjava.ch15_collection`  | 15. 컬렉션 자료구조     |
+| `tisjava.ch18_io`          | 18. 데이터 입출력      |
