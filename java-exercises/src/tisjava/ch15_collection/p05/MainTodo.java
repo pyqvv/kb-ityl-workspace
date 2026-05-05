@@ -11,5 +11,6 @@ public class MainTodo {
         map.put("C", 30);
 
         // TODO 1: entrySet()을 이용해 key=value 형태로 출력
+        System.out.println(map.entrySet());
     }
 }
