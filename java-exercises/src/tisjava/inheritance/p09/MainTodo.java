@@ -10,14 +10,23 @@ abstract class MachineTodo {
     }
 
     // TODO 1: work() 추상 메소드 선언
+    abstract void work();
 }
 
 class ComputerTodo extends MachineTodo {
     // TODO 2: work() 구현
+    @Override
+    void work() {
+        powerOn();
+        System.out.println("컴퓨터 작업 수행");
+        powerOff();
+    }
 }
 
 public class MainTodo {
     public static void main(String[] args) {
         // TODO 3: ComputerTodo 실행
+        ComputerTodo computer = new ComputerTodo();
+        computer.work();
     }
 }
